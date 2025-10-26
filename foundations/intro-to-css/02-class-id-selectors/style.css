@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+.one,
+.two 
+{
+    background-color: pink;
+}
+
+.one 
+{
+    font-size: 30px;
+}
+
+
+#one 
+{
+color: blue;
+font-size: 50px;
+}
+
+
+#two
+{
+background-color: green;
+font-size: 40px;
+font-weight: bold;
+}
